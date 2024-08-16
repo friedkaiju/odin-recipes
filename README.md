@@ -1,4 +1,3 @@
 # odin-recipes
-recipe website for practice
 
-The following is a basic website written in HTML.
+A simple recipe website built in order to practice and refine basic HTML and CSS techniques.
